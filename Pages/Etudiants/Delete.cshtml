@@ -1,0 +1,40 @@
+﻿@page
+@model EtudiantCRUD.Pages.Etudiants.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>List of Students</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ListEtudiant.FirstName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ListEtudiant.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ListEtudiant.LastName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ListEtudiant.LastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ListEtudiant.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ListEtudiant.Email)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="ListEtudiant.ID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

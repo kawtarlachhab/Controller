@@ -1,0 +1,25 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    color:blueviolet ;
+    background-image: url("img.png");
+    background-size:cover;
+    height:620px;
+    position:relative;
+    background-position:center;
+    background-repeat:no-repeat;
+}

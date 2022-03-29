@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EtudiantCRUD
+build_property.RootNamespace = EtudiantCRUD
+build_property.ProjectDir = C:\Users\hp\Documents\2ILISI2021\PH3\.Net\TP_2RAZOR_CRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\Documents\2ILISI2021\PH3\.Net\TP_2RAZOR_CRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Etudiants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Etudiants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Etudiants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Etudiants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Etudiants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/2ILISI2021/PH3/.Net/TP_2RAZOR_CRUD/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qv6xyxqdhr
